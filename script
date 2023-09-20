@@ -1,0 +1,2 @@
+alias AFKon "+forward; +moveleft; +left; cl_disablehtmlmotd 1; echo Idle Script by Rampix - [Enabled]"
+alias AFKoff "-forward; -moveleft; -left; cl_disablehtmlmotd 0; echo Idle Script by Rampix - [Disabled]"
